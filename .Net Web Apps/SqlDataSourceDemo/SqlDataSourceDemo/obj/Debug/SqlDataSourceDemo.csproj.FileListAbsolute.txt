@@ -1,0 +1,116 @@
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll.config
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.pdb
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csc.exe
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csc.exe.config
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csc.rsp
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csi.exe
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csi.exe.config
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csi.rsp
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.AppContext.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Console.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\vbc.exe
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\vbc.exe.config
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\vbc.rsp
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.csprojAssemblyReference.cache
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.csproj.CopyComplete
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.dll
+C:\Users\jwarpech\source\repos\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.pdb
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll.config
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.pdb
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csc.exe
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csc.exe.config
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csc.rsp
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csi.exe
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csi.exe.config
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\csi.rsp
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.AppContext.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Console.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\vbc.exe
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\vbc.exe.config
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\vbc.rsp
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.csprojAssemblyReference.cache
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.csproj.CopyComplete
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.dll
+C:\Users\837967\source\repos\.Net Web Apps\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.pdb

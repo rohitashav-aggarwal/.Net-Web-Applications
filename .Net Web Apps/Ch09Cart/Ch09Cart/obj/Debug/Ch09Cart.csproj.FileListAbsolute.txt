@@ -1,0 +1,61 @@
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\Ch09Cart.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\Ch09Cart.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\Ch09Cart.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\ch09\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.pdb
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\csc.exe
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\vbc.exe
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\Ch09Cart.dll.config
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\Ch09Cart.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\Ch09Cart.pdb
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.dll
+C:\aspnet46_cs\book_applications\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.pdb
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\csc.exe
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\vbc.exe
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\Ch09Cart.dll.config
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\Ch09Cart.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\Ch09Cart.pdb
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.csprojAssemblyReference.cache
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.csproj.CopyComplete
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.dll
+C:\Users\837967\source\repos\.Net Web Apps\Ch09Cart\Ch09Cart\obj\Debug\Ch09Cart.pdb

@@ -1,0 +1,169 @@
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\PayrollWeb.dll.config
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\PayrollWeb.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\PayrollWeb.pdb
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\csc.exe
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\csc.exe.config
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\csc.rsp
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\csi.exe
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\csi.exe.config
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\csi.rsp
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.AppContext.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Console.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\vbc.exe
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\vbc.exe.config
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\vbc.rsp
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csprojAssemblyReference.cache
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csproj.CoreCompileInputs.cache
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csproj.CopyComplete
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.dll
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.pdb
+C:\Users\823714\source\repos\PayrollWeb\PayrollWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\PayrollWeb.dll.config
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\PayrollWeb.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\PayrollWeb.pdb
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\csc.exe
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\csc.exe.config
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\csc.rsp
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\csi.exe
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\csi.exe.config
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\csi.rsp
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.AppContext.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Console.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\vbc.exe
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\vbc.exe.config
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\vbc.rsp
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csprojResolveAssemblyReference.cache
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csproj.CoreCompileInputs.cache
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.dll
+C:\Users\jwarpech\Downloads\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.pdb
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\PayrollWeb.dll.config
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\PayrollWeb.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\PayrollWeb.pdb
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\csc.exe
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\csc.exe.config
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\csc.rsp
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\csi.exe
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\csi.exe.config
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\csi.rsp
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.Managed.Core.targets
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.AppContext.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Console.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Compression.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.FileSystem.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.IO.Pipes.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.AccessControl.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Claims.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Security.Principal.Windows.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.ValueTuple.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XmlDocument.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XPath.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\vbc.exe
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\vbc.exe.config
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\vbc.rsp
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\VBCSCompiler.exe
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\AspNet.ScriptManager.jQuery.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csprojAssemblyReference.cache
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.csproj.CopyComplete
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.dll
+H:\CPRG214 - OOSD - Winter 2020\Day 1\PayrollWeb\PayrollWeb\obj\Debug\PayrollWeb.pdb

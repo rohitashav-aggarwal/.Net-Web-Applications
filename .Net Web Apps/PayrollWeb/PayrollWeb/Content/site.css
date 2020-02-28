@@ -1,0 +1,19 @@
+﻿/*form{
+    width: 75%;
+    margin-top:20px;
+    margin-right:auto;
+    margin-left:auto;
+}*/
+
+.jumbotron h1 {
+    font-size: 250%;
+}
+
+.container {
+    border: 1px solid #cecece;
+}
+
+#lblPay {
+    font-weight: bold;
+}
+

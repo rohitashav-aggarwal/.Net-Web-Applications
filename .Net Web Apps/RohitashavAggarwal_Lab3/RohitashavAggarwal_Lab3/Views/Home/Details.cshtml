@@ -1,0 +1,87 @@
+﻿@model RohitashavAggarwal_Lab3.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    @if (Model.ImageFile != null)
+    {
+        <img src="~/Images/@Model.ImageFile" />
+    }
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShortDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShortDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LongDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LongDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageFile)
+        </dt>
+
+        <dd>
+            @if (Model.ImageFile != null)
+            {
+                @Html.DisplayFor(model => model.ImageFile)
+            }
+            else
+            {
+                <span>Image not available</span>
+            }
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OnHand)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OnHand)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.ProductID }) |*@
+    @Html.ActionLink("Back to List", "Products")
+</p>

@@ -1,0 +1,15 @@
+C:\oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.exe.config
+C:\oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.exe
+C:\oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.pdb
+C:\oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.csprojResolveAssemblyReference.cache
+C:\oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.exe
+C:\oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.pdb
+O:\student\Information & Communications Technologies\Data\OOSD\OOSD Shared Folders\Fall Track\Pickup\Oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.exe.config
+O:\student\Information & Communications Technologies\Data\OOSD\OOSD Shared Folders\Fall Track\Pickup\Oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.exe
+O:\student\Information & Communications Technologies\Data\OOSD\OOSD Shared Folders\Fall Track\Pickup\Oracle\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.pdb
+C:\Users\837967\Desktop\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.exe.config
+C:\Users\837967\Desktop\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.exe
+C:\Users\837967\Desktop\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\bin\Debug\DB_Isolation_Levels_SQL.pdb
+C:\Users\837967\Desktop\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.csprojAssemblyReference.cache
+C:\Users\837967\Desktop\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.exe
+C:\Users\837967\Desktop\DB_Isolation_Levels_SQL\DB_Isolation_Levels_SQL\obj\Debug\DB_Isolation_Levels_SQL.pdb
